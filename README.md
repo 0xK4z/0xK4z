@@ -1,16 +1,25 @@
-## Working on it...👋
+# Olá, eu sou o Victor Guimarães.
 
-<!--
-**0xK4z/0xK4z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional de TI com sólida base em suporte técnico e administração de sistemas, com foco na segurança para manter o sistema menos sucetível a vulnerabilidades. Graduado em ADS, sou um entusiasta da cultura Cypherpunk e defensor de software livre.
 
-Here are some ideas to get you started:
+## Atuação e Foco
+- 🛠️ Suporte N1/N2: Experiência em resolução de problemas complexos em ambientes Windows e Linux, garantindo a continuidade do negócio e a satisfação do usuário.
+- 🐧 **Linux Power User:** Uso diário de Arch Linux, focado em otimização de sistemas e privacidade.
+- 🛡️ **Estudos em Cybersecurity:** Focado em operações de **Blue Team**, monitoramento de logs (SIEM) e defesa de perímetros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Competências Técnicas
+- **Sistemas:** Administração de Windows Server e distribuições Linux.
+- **Segurança:** Hardening de sistemas, análise de vulnerabilidades e segurança de redes.
+- **Desenvolvimento:** Automação com Shell Scripting e Python, além de experiência prévia com Node.js e React.
+- **Infraestrutura:** Virtualização (VirtualBox/Proxmox), OPNsense e gerenciamento de permissões em Active Directory.
+
+## Projetos & Lab
+- **Home Lab de Segurança:** Implementação de ambientes controlados para simulação de ataques e defesa.
+- **Automação de Suporte:** Scripts desenvolvidos para otimização de rotinas de TI.
+- **Cultura Open Source:** Contribuições e projetos pessoais focados em transparência e privacidade de dados.
+
+## Conecte-se
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/0xk4z)
+
+---
+"Privacy is necessary for an open society in the electronic age." – Eric Hughes
