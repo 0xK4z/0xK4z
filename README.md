@@ -54,7 +54,7 @@ Currently expanding my expertise in Application Support, SQL, APIs, and support 
 - Shell Scripting
 
 ### Infrastructure
-- Virtualization (VirtualBox / Proxmox)
+- Virtualization (VMWare / Proxmox)
 - Networking Fundamentals
 - System Administration
 - Environment Troubleshooting
