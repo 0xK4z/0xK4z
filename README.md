@@ -4,7 +4,7 @@ IT professional with a strong foundation in technical support, troubleshooting, 
 
 Experienced in diagnosing issues across Windows and Linux environments, investigating incidents, analyzing logs, and automating repetitive tasks with Python. I enjoy solving technical problems through a structured approach focused on evidence gathering, root cause analysis (RCA), and continuous improvement.
 
-Currently expanding my expertise in Application Support, SQL, APIs, and support process automation while building practical projects focused on operational efficiency and problem solving.
+Currently expanding my expertise in Cloud Infrastructure, Application Support, SQL, APIs, and support process automation while building practical projects focused on operational efficiency and problem solving.
 
 ---
 
